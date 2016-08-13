@@ -9,4 +9,3 @@ Popular Neural Networks Classification Algorithms implemented intuitively on Mat
 
 4. Reinforcement Learning Solutions for the book:
    Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto
-    
